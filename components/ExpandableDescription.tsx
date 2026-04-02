@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { Typography, Button, Box } from '@mui/material';
 
 interface ExpandableDescriptionProps {
@@ -13,11 +13,43 @@ export const ExpandableDescription: React.FC<ExpandableDescriptionProps> = ({
   fontSize = '0.875rem',
 }) => {
   const [expanded, setExpanded] = useState(false);
-  const showExpand = text.length > 150;
+  const [showExpand, setShowExpand] = useState(false);
+  const textRef = useRef<HTMLParagraphElement | null>(null);
+
+  useEffect(() => {
+    const element = textRef.current;
+
+    if (!element) {
+      return;
+    }
+
+    const checkOverflow = () => {
+      setShowExpand(element.scrollHeight > element.clientHeight + 1);
+    };
+
+    checkOverflow();
+
+    if (typeof ResizeObserver === 'undefined') {
+      return;
+    }
+
+    const resizeObserver = new ResizeObserver(() => {
+      if (!expanded) {
+        checkOverflow();
+      }
+    });
+
+    resizeObserver.observe(element);
+
+    return () => {
+      resizeObserver.disconnect();
+    };
+  }, [collapsedLines, expanded, fontSize, text]);
 
   return (
     <Box>
       <Typography
+        ref={textRef}
         variant="body2"
         color="text.secondary"
         sx={{

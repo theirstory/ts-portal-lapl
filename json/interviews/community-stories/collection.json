@@ -1,7 +1,6 @@
 {
-    "id": "community-stories",
-    "name": "Community Stories",
-    "description": "Community stories from the Los Angeles Public Library",
-    "image": "/images/community-histories.png"
-  }
-  
+  "id": "community-stories",
+  "name": "Community Stories",
+  "description": "Community stories from the Los Angeles Public Library, sharing personal experiences and local histories that reflect the diverse voices, neighborhoods, traditions, and lived memories of communities across Los Angeles.",
+  "image": "/images/community-histories.png"
+}

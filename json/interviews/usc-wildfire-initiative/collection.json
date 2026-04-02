@@ -1,7 +1,6 @@
 {
-    "id": "usc-wildfire-initiative",
-    "name": "USC Wildfire Initiative",
-    "description": "USC Wildfire Initiative interviews",
-    "image": "/images/usc-wildfire.png"
-  }
-  
+  "id": "usc-wildfire-initiative",
+  "name": "USC Wildfire Initiative",
+  "description": "Interviews from the USC Wildfire Initiative, capturing research, lived experience, and community perspectives on wildfire risk, resilience, recovery, and the changing relationship between people, land, and climate in California.",
+  "image": "/images/usc-wildfire.png"
+}

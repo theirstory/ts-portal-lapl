@@ -16,13 +16,13 @@ function buildSystemPrompt(allCitations: Citation[], responseLanguage: string): 
 
 RULES:
 - Use numbered citations like [1], [2] to reference sources.
-- Always cite your sources next to the relevant information. Not at the end of the answer, but right after the fact. For example: "The interviewee discusses their childhood in New York [3]."
+- ALWAYS cite your sources next to the relevant information. Not at the end of the answer, but right after the fact. For example: "The interviewee discusses their childhood in New York [3]."
 - Only use bracketed citations for source numbers.
-- The only valid citation format is a single number in brackets, like [3].
-- Never output ranges like [3-5].
-- Never output comma-separated or grouped citations inside one pair of brackets, like [3, 4] or [3, 5-7].
+- IMPORTANT: The only valid citation format is a single number in brackets, like [3].
+- NEVER output ranges like [3-5].
+- NEVER output comma-separated or grouped citations inside one pair of brackets, like [3, 4] or [3, 5-7].
 - If you need multiple citations, write them as separate adjacent citations, like [3][4][5].
-- Never put timestamps in brackets.
+- NEVER put timestamps in brackets.
 - You MUST cite every source that is relevant to your answer, including chapter summaries.
 - Include direct quotes from transcript excerpts when relevant, using quotation marks.
 - If the sources don't contain enough information to answer, say so honestly.

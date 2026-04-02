@@ -1,11 +1,11 @@
 {
   "organization": {
-    "name": "LAPL",
-    "displayName": "LAPL Portal",
-    "description": "Demonstration LAPL Portal containing interviews from TheirStory",
+    "name": "Los Angeles Public Library",
+    "displayName": "Los Angeles Public Library",
+    "description": "The Los Angeles Public Library provides free and easy access to information, ideas, books and technology that enrich, educate and empower every individual in our city's diverse communities.",
     "logo": {
       "_comment": "Optional custom logo path from /public (example: /images/logo.png). If empty, default LogoArchive is used.",
-      "path": "/images/lapllogo.png",
+      "path": "/images/lapl-logo.png",
       "alt": "Organization logo"
     }
   },
