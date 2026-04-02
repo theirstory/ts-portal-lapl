@@ -1,7 +1,6 @@
 {
-    "id": "institutional-histories",
-    "name": "Institutional Histories",
-    "description": "Institutional histories from the Los Angeles Public Library",
-    "image": "/images/institutional-histories.png"
-  }
-  
+  "id": "institutional-histories",
+  "name": "Institutional Histories",
+  "description": "Institutional histories from the Los Angeles Public Library, featuring interviews and narratives that document the library's development, community impact, leadership, services, and evolving role in preserving the cultural memory of Los Angeles.",
+  "image": "/images/institutional-histories.png"
+}

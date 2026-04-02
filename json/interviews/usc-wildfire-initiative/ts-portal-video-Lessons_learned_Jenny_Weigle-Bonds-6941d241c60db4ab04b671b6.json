@@ -6643,7 +6643,7 @@
     ],
     "chat": [],
     "created_at": "2025-12-16T21:42:25.923Z",
-    "updated_at": "2026-02-27T01:48:28.119Z",
+    "updated_at": "2026-04-02T18:12:14.987Z",
     "__v": 1,
     "opentok_session_id": "1_MX40NTk3Njc0Mn4xMjcuMC4wLjF-MTc2NTkyMTM0NTY4NH4wNXMwb2RHUjV3a2FVV2RaQnl0L05oOEl-fn4",
     "custom_archive_media_type": "video/mp4",
@@ -6652,7 +6652,7 @@
     "title": "Lessons learned: Jenny Weigle-Bonds",
     "duration": 397.504,
     "recording_size": 761513950,
-    "description": "",
+    "description": "The interview discusses the impact of natural disasters on communities, highlighting Los Angeles and Pacific Palisades. The speaker emphasizes the importance of preparedness, community collaboration, and learning from weather-related incidents. They express disappointment in city leadership for inadequate disaster measures but acknowledge grassroots efforts like Team Palisades, which emerged post-fires to foster community resilience through neighbor connectivity and program implementation. The narrative underscores the significance of compassion and empathy on a national level, advocating for enhanced support systems and collective action during crises, and reveals a community's determination to rebuild and strengthen bonds post-disaster.",
     "deepgramOp": "cg5bkp802f",
     "aviary_url": "https://lapl.aviaryplatform.com/c/6941d241c60db4ab04b671b63578",
     "call_processing_status": "pending",
@@ -6670,15 +6670,15 @@
   "videoURL": "https://stream.mux.com/AAoXFL3EFGkw6Kh26wjJuVwL53FZ4fvQb1mWwwXyi5Q/highest.mp4",
   "participants": [
     {
-      "_id": "6941d265c60db4ab04b671f7",
-      "name": "Jenny Weigle-Bonds",
+      "_id": "6941d265c60db4ab04b671f8",
+      "name": " Pacific Palisades resident",
       "user": "68d1b9f122c62b97b3daa8f0",
       "story": "6941d241c60db4ab04b671b6",
       "__v": 0
     },
     {
-      "_id": "6941d265c60db4ab04b671f8",
-      "name": " Pacific Palisades resident",
+      "_id": "6941d265c60db4ab04b671f7",
+      "name": "Jenny Weigle-Bonds",
       "user": "68d1b9f122c62b97b3daa8f0",
       "story": "6941d241c60db4ab04b671b6",
       "__v": 0

@@ -99913,7 +99913,7 @@
         "localRecordingMimeType": "video/webm;codecs=vp8,opus",
         "disableAutomaticResolutionSwitching": false,
         "autoChaptering": true,
-        "_id": "69a0f5c6b915b882701fa90f"
+        "_id": "69c94ba3a5a3aea3afb753e9"
       },
       "create_gallery": true,
       "forceTwofactorAuthentication": false,
@@ -99963,10 +99963,1549 @@
         "updated_at": "2025-09-26T14:29:59.370Z"
       }
     ],
-    "indexes": [],
+    "indexes": [
+      {
+        "created_at": "2026-04-02T18:15:38.786Z",
+        "updated_at": "2026-04-02T18:15:38.786Z",
+        "title": "Auto-generated Index (2026-04-02 18:15:38)",
+        "metadata": [
+          {
+            "index": 0,
+            "timecode": "00:00:00",
+            "time": {
+              "start": 0,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 1,
+                "line": "# Introduction and Context of the Interview",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 2,
+                "line": "> The interview begins with Jim Sherman introducing himself, the purpose of the institutional interview series, and the context of the recording. He sets the scene by mentioning the date, location, and the significance of the Octavia Lab at the Los Angeles Public Library. Richard Asaro is introduced as the interviewee, highlighting his unique role as someone present from the lab's inception to the present. The introduction also touches on the impact of the lab on patrons and the community, setting the stage for a detailed exploration of its history and operations.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 3,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 4,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 5,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Introduction and Context of the Interview",
+            "synopsis": "The interview begins with Jim Sherman introducing himself, the purpose of the institutional interview series, and the context of the recording. He sets the scene by mentioning the date, location, and the significance of the Octavia Lab at the Los Angeles Public Library. Richard Asaro is introduced as the interviewee, highlighting his unique role as someone present from the lab's inception to the present. The introduction also touches on the impact of the lab on patrons and the community, setting the stage for a detailed exploration of its history and operations.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 6,
+            "timecode": "00:00:14",
+            "time": {
+              "start": 14,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 7,
+                "line": "# Reopening, Staffing Changes, and Recovery after the Pandemic",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 8,
+                "line": "> Following the pandemic, Richard discusses the challenges of reopening the lab, the reduction in staff, and the transition of leadership. He describes the difficulties of maintaining services with limited resources, the importance of institutional knowledge, and the arrival of new staff members like Lauren Kratz and Aldrich. The chapter highlights the renewed focus on programming, community partnerships, and the gradual recovery of foot traffic and engagement. Richard reflects on the resilience of the lab and the critical role of staff in adapting to changing circumstances.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 9,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 10,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 11,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Reopening, Staffing Changes, and Recovery after the Pandemic",
+            "synopsis": "Following the pandemic, Richard discusses the challenges of reopening the lab, the reduction in staff, and the transition of leadership. He describes the difficulties of maintaining services with limited resources, the importance of institutional knowledge, and the arrival of new staff members like Lauren Kratz and Aldrich. The chapter highlights the renewed focus on programming, community partnerships, and the gradual recovery of foot traffic and engagement. Richard reflects on the resilience of the lab and the critical role of staff in adapting to changing circumstances.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 12,
+            "timecode": "00:01:27",
+            "time": {
+              "start": 87,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 13,
+                "line": "# Naming and Construction of the Octavia Lab",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 14,
+                "line": "> The focus turns to the process of naming the Octavia Lab, led by V and a committee, and the documentation of the construction process. Richard describes the transformation of the space, the involvement of various staff members, and the challenges of maintaining service during construction. The chapter also touches on the administrative changes and the importance of preserving institutional memory during periods of transition. The collaborative spirit and adaptability of the staff are emphasized as key factors in successfully launching the lab.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 15,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 16,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 17,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Naming and Construction of the Octavia Lab",
+            "synopsis": "The focus turns to the process of naming the Octavia Lab, led by V and a committee, and the documentation of the construction process. Richard describes the transformation of the space, the involvement of various staff members, and the challenges of maintaining service during construction. The chapter also touches on the administrative changes and the importance of preserving institutional memory during periods of transition. The collaborative spirit and adaptability of the staff are emphasized as key factors in successfully launching the lab.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 18,
+            "timecode": "00:02:24",
+            "time": {
+              "start": 144,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 19,
+                "line": "# Richard Asaro's Early Career and Entry into LAPL",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 20,
+                "line": "> Richard Asaro recounts his entry into the Los Angeles Public Library, crediting his wife for alerting him to the job opportunity. He describes taking the civil service exam, his initial placement in the Science and Technology department, and the nature of clerical work at the time. Richard reflects on the departmental structure, the lack of certain services that exist today, and the changes he witnessed over his 25-year tenure. He also shares personal motivations for staying in the library, including his family's love of reading and the fulfillment he found in public service compared to previous jobs.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 21,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 22,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 23,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Richard Asaro's Early Career and Entry into LAPL",
+            "synopsis": "Richard Asaro recounts his entry into the Los Angeles Public Library, crediting his wife for alerting him to the job opportunity. He describes taking the civil service exam, his initial placement in the Science and Technology department, and the nature of clerical work at the time. Richard reflects on the departmental structure, the lack of certain services that exist today, and the changes he witnessed over his 25-year tenure. He also shares personal motivations for staying in the library, including his family's love of reading and the fulfillment he found in public service compared to previous jobs.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 24,
+            "timecode": "00:04:14",
+            "time": {
+              "start": 254,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 25,
+                "line": "# Working in Science and Technology Department and Intellectual Property Services",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 26,
+                "line": "> Richard details his specialized work in the Science and Technology department, particularly his responsibilities at the intellectual properties desk. He explains the library's role as a patent and trademark depository, the resources provided to inventors and artists, and the sensitive nature of intellectual property inquiries. The discussion highlights the transition of these duties from clerks to librarians, the personal stakes involved for patrons, and the unique fulfillment Richard found in helping people with high-stakes, creative, or legal projects. He contrasts this with other library services and reflects on the differences between retail and library work.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 27,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 28,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 29,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Working in Science and Technology Department and Intellectual Property Services",
+            "synopsis": "Richard details his specialized work in the Science and Technology department, particularly his responsibilities at the intellectual properties desk. He explains the library's role as a patent and trademark depository, the resources provided to inventors and artists, and the sensitive nature of intellectual property inquiries. The discussion highlights the transition of these duties from clerks to librarians, the personal stakes involved for patrons, and the unique fulfillment Richard found in helping people with high-stakes, creative, or legal projects. He contrasts this with other library services and reflects on the differences between retail and library work.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 30,
+            "timecode": "00:14:10",
+            "time": {
+              "start": 850,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 31,
+                "line": "# Changes in Library Operations and Clerical Duties",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 32,
+                "line": "> The conversation shifts to the broader changes in library operations brought on by economic downturns and staff attrition. Richard describes how clerical staff were required to take on new responsibilities, such as working at the circulation desk and the computer center, due to layoffs and early retirements. He discusses the evolution of departmental roles, the introduction of the computer center, and the increased interaction among staff from different departments. These changes marked a significant transition from the more isolated, specialized work he had previously experienced.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 33,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 34,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 35,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Changes in Library Operations and Clerical Duties",
+            "synopsis": "The conversation shifts to the broader changes in library operations brought on by economic downturns and staff attrition. Richard describes how clerical staff were required to take on new responsibilities, such as working at the circulation desk and the computer center, due to layoffs and early retirements. He discusses the evolution of departmental roles, the introduction of the computer center, and the increased interaction among staff from different departments. These changes marked a significant transition from the more isolated, specialized work he had previously experienced.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 36,
+            "timecode": "00:16:16",
+            "time": {
+              "start": 976,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 37,
+                "line": "# The Genesis and Planning of the Octavia Lab",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 38,
+                "line": "> Richard recalls the early rumors and discussions about creating a digital media lab at Central Library. He describes the initial expectations for the lab, which included computers with graphic design software and possibly a 3D printer, similar to university makerspaces. The planning process, administrative interest, and the eventual announcement of the lab's construction are discussed, along with the logistical challenges of reallocating space and moving collections. The narrative highlights the collaborative effort required to prepare for the lab's arrival and the sense of camaraderie among staff involved in the transition.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 39,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 40,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 41,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "The Genesis and Planning of the Octavia Lab",
+            "synopsis": "Richard recalls the early rumors and discussions about creating a digital media lab at Central Library. He describes the initial expectations for the lab, which included computers with graphic design software and possibly a 3D printer, similar to university makerspaces. The planning process, administrative interest, and the eventual announcement of the lab's construction are discussed, along with the logistical challenges of reallocating space and moving collections. The narrative highlights the collaborative effort required to prepare for the lab's arrival and the sense of camaraderie among staff involved in the transition.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 42,
+            "timecode": "00:27:30",
+            "time": {
+              "start": 1650,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 43,
+                "line": "# Administrative Structure and Equipment Decisions for the Lab",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 44,
+                "line": "> Richard discusses the top-down nature of decision-making in the development of the Octavia Lab. He explains how administrative priorities influenced the selection of equipment and the overall direction of the lab. The process involved navigating city purchasing procedures, balancing tradition with innovation, and ensuring that the lab's offerings aligned with both administrative vision and practical needs. Richard reflects on his limited involvement in these high-level decisions but observes the impact of these choices on the lab's eventual structure and capabilities.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 45,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 46,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 47,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Administrative Structure and Equipment Decisions for the Lab",
+            "synopsis": "Richard discusses the top-down nature of decision-making in the development of the Octavia Lab. He explains how administrative priorities influenced the selection of equipment and the overall direction of the lab. The process involved navigating city purchasing procedures, balancing tradition with innovation, and ensuring that the lab's offerings aligned with both administrative vision and practical needs. Richard reflects on his limited involvement in these high-level decisions but observes the impact of these choices on the lab's eventual structure and capabilities.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 48,
+            "timecode": "00:28:17",
+            "time": {
+              "start": 1697,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 49,
+                "line": "# Staff Training and Preparation for the Lab's Opening",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 50,
+                "line": "> The narrative shifts to the training and preparation of staff for the lab's opening. Richard describes the initial group of clerks selected for training, the hands-on sessions with various pieces of equipment, and the philosophy of providing access rather than direct instruction. The training emphasized self-directed learning for patrons, the importance of channeling rather than co-piloting creative projects, and the adaptation of existing library policies for new technologies. The chapter highlights the challenges and strategies involved in preparing staff to support a wide range of creative activities.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 51,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 52,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 53,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Staff Training and Preparation for the Lab's Opening",
+            "synopsis": "The narrative shifts to the training and preparation of staff for the lab's opening. Richard describes the initial group of clerks selected for training, the hands-on sessions with various pieces of equipment, and the philosophy of providing access rather than direct instruction. The training emphasized self-directed learning for patrons, the importance of channeling rather than co-piloting creative projects, and the adaptation of existing library policies for new technologies. The chapter highlights the challenges and strategies involved in preparing staff to support a wide range of creative activities.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 54,
+            "timecode": "00:38:01",
+            "time": {
+              "start": 2281,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 55,
+                "line": "# Patron Orientation, Tours, and Service Philosophy",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 56,
+                "line": "> Richard explains the process of orienting patrons to the Octavia Lab, emphasizing the importance of tours and clear communication about available resources. He discusses the challenges of introducing new technologies, the value of seeing other patrons engaged in creative work, and the need to tailor information to individual interests. The chapter explores the parallels between traditional library services and the lab's approach, highlighting the focus on empowering patrons to pursue their own projects and the role of staff in facilitating, rather than directing, creative exploration.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 57,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 58,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 59,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Patron Orientation, Tours, and Service Philosophy",
+            "synopsis": "Richard explains the process of orienting patrons to the Octavia Lab, emphasizing the importance of tours and clear communication about available resources. He discusses the challenges of introducing new technologies, the value of seeing other patrons engaged in creative work, and the need to tailor information to individual interests. The chapter explores the parallels between traditional library services and the lab's approach, highlighting the focus on empowering patrons to pursue their own projects and the role of staff in facilitating, rather than directing, creative exploration.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 60,
+            "timecode": "00:51:28",
+            "time": {
+              "start": 3088,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 61,
+                "line": "# Layout, Programming, and Staff Roles in the Lab",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 62,
+                "line": "> The conversation turns to the physical layout of the lab, the organization of equipment, and the scheduling of programming and group visits. Richard describes how the lab adapts to different activities, such as sewing classes, and the importance of providing the right tools for various creative projects. He discusses the evolution of staff roles, the challenges of training new clerks, and the strategies for supporting patrons with varying levels of technical expertise. The chapter underscores the dynamic and collaborative nature of the lab's operations.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 63,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 64,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 65,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Layout, Programming, and Staff Roles in the Lab",
+            "synopsis": "The conversation turns to the physical layout of the lab, the organization of equipment, and the scheduling of programming and group visits. Richard describes how the lab adapts to different activities, such as sewing classes, and the importance of providing the right tools for various creative projects. He discusses the evolution of staff roles, the challenges of training new clerks, and the strategies for supporting patrons with varying levels of technical expertise. The chapter underscores the dynamic and collaborative nature of the lab's operations.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 66,
+            "timecode": "01:03:58",
+            "time": {
+              "start": 3838,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 67,
+                "line": "# Opening of the Lab and Initial Public Response",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 68,
+                "line": "> Richard reflects on the anticipation and uncertainty surrounding the lab's opening, the initial public response, and the process of building engagement. He describes the early popularity of certain services, such as 3D printing and the recording studio, and the gradual adaptation of patrons to other equipment. The chapter highlights the importance of word-of-mouth, the challenges of introducing new services, and the sense of accomplishment as the lab began to establish itself as a valuable resource for the community.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 69,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 70,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 71,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Opening of the Lab and Initial Public Response",
+            "synopsis": "Richard reflects on the anticipation and uncertainty surrounding the lab's opening, the initial public response, and the process of building engagement. He describes the early popularity of certain services, such as 3D printing and the recording studio, and the gradual adaptation of patrons to other equipment. The chapter highlights the importance of word-of-mouth, the challenges of introducing new services, and the sense of accomplishment as the lab began to establish itself as a valuable resource for the community.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 72,
+            "timecode": "01:08:30",
+            "time": {
+              "start": 4110,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 73,
+                "line": "# The Impact of the COVID-19 Pandemic and the Lab's Pivot to PPE Production",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 74,
+                "line": "> The narrative shifts dramatically with the onset of the COVID-19 pandemic, leading to the closure of the library and the lab. Richard describes the rapid transition from normal operations to remote work, the immediate demand for PPE from healthcare professionals, and the lab's role in designing and producing face shields. He details the partnerships formed with organizations like LACI, Goodwill, and other libraries, the logistics of manufacturing and distribution, and the emotional impact of contributing to the community during a crisis. The chapter captures the sense of urgency, agency, and solidarity that defined the lab's response to the pandemic.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 75,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 76,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 77,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "The Impact of the COVID-19 Pandemic and the Lab's Pivot to PPE Production",
+            "synopsis": "The narrative shifts dramatically with the onset of the COVID-19 pandemic, leading to the closure of the library and the lab. Richard describes the rapid transition from normal operations to remote work, the immediate demand for PPE from healthcare professionals, and the lab's role in designing and producing face shields. He details the partnerships formed with organizations like LACI, Goodwill, and other libraries, the logistics of manufacturing and distribution, and the emotional impact of contributing to the community during a crisis. The chapter captures the sense of urgency, agency, and solidarity that defined the lab's response to the pandemic.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 78,
+            "timecode": "01:46:22",
+            "time": {
+              "start": 6382,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 79,
+                "line": "# Growth, Expansion, and the Lab as a Community Third Space",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 80,
+                "line": "> The final chapter explores the lab's growth, the expansion of membership, and the concept of the lab as a 'third space' for community building. Richard discusses the organic formation of user groups, the role of social media in spreading awareness, and the lab's responsiveness to patron needs. He anticipates future expansion, both in physical space and in the replication of the model at other branches. The chapter emphasizes the lab's success in fostering creativity, collaboration, and a sense of belonging among diverse patrons, positioning it as a vital and evolving part of the library ecosystem.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 81,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 82,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 83,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 84,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Growth, Expansion, and the Lab as a Community Third Space",
+            "synopsis": "The final chapter explores the lab's growth, the expansion of membership, and the concept of the lab as a 'third space' for community building. Richard discusses the organic formation of user groups, the role of social media in spreading awareness, and the lab's responsiveness to patron needs. He anticipates future expansion, both in physical space and in the replication of the model at other branches. The chapter emphasizes the lab's success in fostering creativity, collaboration, and a sense of belonging among diverse patrons, positioning it as a vital and evolving part of the library ecosystem.",
+            "notes": "",
+            "keywords": ""
+          }
+        ],
+        "notes": [
+          {
+            "children": [
+              {
+                "text": "[00:00:00]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Introduction and Context of the Interview"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> The interview begins with Jim Sherman introducing himself, the purpose of the institutional interview series, and the context of the recording. He sets the scene by mentioning the date, location, and the significance of the Octavia Lab at the Los Angeles Public Library. Richard Asaro is introduced as the interviewee, highlighting his unique role as someone present from the lab's inception to the present. The introduction also touches on the impact of the lab on patrons and the community, setting the stage for a detailed exploration of its history and operations."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:00:14]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Reopening, Staffing Changes, and Recovery after the Pandemic"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Following the pandemic, Richard discusses the challenges of reopening the lab, the reduction in staff, and the transition of leadership. He describes the difficulties of maintaining services with limited resources, the importance of institutional knowledge, and the arrival of new staff members like Lauren Kratz and Aldrich. The chapter highlights the renewed focus on programming, community partnerships, and the gradual recovery of foot traffic and engagement. Richard reflects on the resilience of the lab and the critical role of staff in adapting to changing circumstances."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:01:27]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Naming and Construction of the Octavia Lab"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> The focus turns to the process of naming the Octavia Lab, led by V and a committee, and the documentation of the construction process. Richard describes the transformation of the space, the involvement of various staff members, and the challenges of maintaining service during construction. The chapter also touches on the administrative changes and the importance of preserving institutional memory during periods of transition. The collaborative spirit and adaptability of the staff are emphasized as key factors in successfully launching the lab."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:02:24]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Richard Asaro's Early Career and Entry into LAPL"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Richard Asaro recounts his entry into the Los Angeles Public Library, crediting his wife for alerting him to the job opportunity. He describes taking the civil service exam, his initial placement in the Science and Technology department, and the nature of clerical work at the time. Richard reflects on the departmental structure, the lack of certain services that exist today, and the changes he witnessed over his 25-year tenure. He also shares personal motivations for staying in the library, including his family's love of reading and the fulfillment he found in public service compared to previous jobs."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:04:14]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Working in Science and Technology Department and Intellectual Property Services"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Richard details his specialized work in the Science and Technology department, particularly his responsibilities at the intellectual properties desk. He explains the library's role as a patent and trademark depository, the resources provided to inventors and artists, and the sensitive nature of intellectual property inquiries. The discussion highlights the transition of these duties from clerks to librarians, the personal stakes involved for patrons, and the unique fulfillment Richard found in helping people with high-stakes, creative, or legal projects. He contrasts this with other library services and reflects on the differences between retail and library work."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:14:10]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Changes in Library Operations and Clerical Duties"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> The conversation shifts to the broader changes in library operations brought on by economic downturns and staff attrition. Richard describes how clerical staff were required to take on new responsibilities, such as working at the circulation desk and the computer center, due to layoffs and early retirements. He discusses the evolution of departmental roles, the introduction of the computer center, and the increased interaction among staff from different departments. These changes marked a significant transition from the more isolated, specialized work he had previously experienced."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:16:16]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# The Genesis and Planning of the Octavia Lab"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Richard recalls the early rumors and discussions about creating a digital media lab at Central Library. He describes the initial expectations for the lab, which included computers with graphic design software and possibly a 3D printer, similar to university makerspaces. The planning process, administrative interest, and the eventual announcement of the lab's construction are discussed, along with the logistical challenges of reallocating space and moving collections. The narrative highlights the collaborative effort required to prepare for the lab's arrival and the sense of camaraderie among staff involved in the transition."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:27:30]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Administrative Structure and Equipment Decisions for the Lab"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Richard discusses the top-down nature of decision-making in the development of the Octavia Lab. He explains how administrative priorities influenced the selection of equipment and the overall direction of the lab. The process involved navigating city purchasing procedures, balancing tradition with innovation, and ensuring that the lab's offerings aligned with both administrative vision and practical needs. Richard reflects on his limited involvement in these high-level decisions but observes the impact of these choices on the lab's eventual structure and capabilities."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:28:17]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Staff Training and Preparation for the Lab's Opening"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> The narrative shifts to the training and preparation of staff for the lab's opening. Richard describes the initial group of clerks selected for training, the hands-on sessions with various pieces of equipment, and the philosophy of providing access rather than direct instruction. The training emphasized self-directed learning for patrons, the importance of channeling rather than co-piloting creative projects, and the adaptation of existing library policies for new technologies. The chapter highlights the challenges and strategies involved in preparing staff to support a wide range of creative activities."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:38:01]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Patron Orientation, Tours, and Service Philosophy"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Richard explains the process of orienting patrons to the Octavia Lab, emphasizing the importance of tours and clear communication about available resources. He discusses the challenges of introducing new technologies, the value of seeing other patrons engaged in creative work, and the need to tailor information to individual interests. The chapter explores the parallels between traditional library services and the lab's approach, highlighting the focus on empowering patrons to pursue their own projects and the role of staff in facilitating, rather than directing, creative exploration."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:51:28]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Layout, Programming, and Staff Roles in the Lab"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> The conversation turns to the physical layout of the lab, the organization of equipment, and the scheduling of programming and group visits. Richard describes how the lab adapts to different activities, such as sewing classes, and the importance of providing the right tools for various creative projects. He discusses the evolution of staff roles, the challenges of training new clerks, and the strategies for supporting patrons with varying levels of technical expertise. The chapter underscores the dynamic and collaborative nature of the lab's operations."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[01:03:58]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Opening of the Lab and Initial Public Response"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Richard reflects on the anticipation and uncertainty surrounding the lab's opening, the initial public response, and the process of building engagement. He describes the early popularity of certain services, such as 3D printing and the recording studio, and the gradual adaptation of patrons to other equipment. The chapter highlights the importance of word-of-mouth, the challenges of introducing new services, and the sense of accomplishment as the lab began to establish itself as a valuable resource for the community."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[01:08:30]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# The Impact of the COVID-19 Pandemic and the Lab's Pivot to PPE Production"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> The narrative shifts dramatically with the onset of the COVID-19 pandemic, leading to the closure of the library and the lab. Richard describes the rapid transition from normal operations to remote work, the immediate demand for PPE from healthcare professionals, and the lab's role in designing and producing face shields. He details the partnerships formed with organizations like LACI, Goodwill, and other libraries, the logistics of manufacturing and distribution, and the emotional impact of contributing to the community during a crisis. The chapter captures the sense of urgency, agency, and solidarity that defined the lab's response to the pandemic."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[01:46:22]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Growth, Expansion, and the Lab as a Community Third Space"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> The final chapter explores the lab's growth, the expansion of membership, and the concept of the lab as a 'third space' for community building. Richard discusses the organic formation of user groups, the role of social media in spreading awareness, and the lab's responsiveness to patron needs. He anticipates future expansion, both in physical space and in the replication of the model at other branches. The chapter emphasizes the lab's success in fostering creativity, collaboration, and a sense of belonging among diverse patrons, positioning it as a vital and evolving part of the library ecosystem."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "_id": "69ceb24a8a06ca59f7919a08"
+      }
+    ],
     "chat": [],
     "created_at": "2025-09-17T14:17:38.000Z",
-    "updated_at": "2026-02-27T01:45:23.083Z",
+    "updated_at": "2026-04-02T18:15:59.616Z",
     "__v": 1,
     "opentok_session_id": "1_MX40NTk3Njc0Mn4xMjcuMC4wLjF-MTc1ODg5NjI1NzU3MH5WME91WHBleHhvdGp3QzJLbnlVbXowaXV-fn4",
     "custom_archive_media_type": "audio/m4a",
@@ -99979,11 +101518,11 @@
     "deepgramOp": "qcy38y2pfq",
     "weaviate_operation": {
       "chunk_count": 56,
-      "content_version": 1,
+      "content_version": 2,
       "model_used": "text-embedding-3-small",
       "status": "completed",
       "created_at": "2026-02-27T01:45:07.950Z",
-      "updated_at": "2026-02-27T01:45:07.950Z"
+      "updated_at": "2026-04-02T18:15:59.616Z"
     },
     "call_processing_status": "pending",
     "call_processing_step": "idle",
@@ -99992,17 +101531,17 @@
   "videoURL": "https://stream.mux.com/P7y4v0100Cu3Xznilm8dDN00NmGV100Bbf3PxqmhdLS4Es4/audio.m4a",
   "participants": [
     {
-      "_id": "6995e3351879c95039ebd18b",
-      "user": "611bfeb9f132410005cc106f",
-      "name": "Richard Acero",
-      "story": "68d6a081d8b132affa85c73c",
-      "__v": 0
-    },
-    {
       "_id": "6995e3351879c95039ebd18a",
       "name": "Jim Sherman",
       "story": "68d6a081d8b132affa85c73c",
       "user": "611bfeb9f132410005cc106f",
+      "__v": 0
+    },
+    {
+      "_id": "6995e3351879c95039ebd18b",
+      "user": "611bfeb9f132410005cc106f",
+      "name": "Richard Acero",
+      "story": "68d6a081d8b132affa85c73c",
       "__v": 0
     }
   ],

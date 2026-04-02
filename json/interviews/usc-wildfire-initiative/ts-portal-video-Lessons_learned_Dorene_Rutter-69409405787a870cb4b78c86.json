@@ -5634,7 +5634,7 @@
     ],
     "chat": [],
     "created_at": "2025-12-15T23:04:37.641Z",
-    "updated_at": "2026-02-27T01:48:30.159Z",
+    "updated_at": "2026-04-02T19:13:39.032Z",
     "__v": 1,
     "opentok_session_id": "1_MX40NTk3Njc0Mn4xMjcuMC4wLjF-MTc2NTgzOTg3NzM4N35TcUxYTFpnVXdPS0pmTVpRMlpDdW9TWXR-fn4",
     "custom_archive_media_type": "video/mp4",
@@ -5643,7 +5643,7 @@
     "title": "Lessons learned: Dorene Rutter",
     "duration": 365.056,
     "recording_size": 698725135,
-    "description": "",
+    "description": "The recording discusses the response and aftermath of a fire in the Pacific Palisades area, highlighting concerns about the initial emergency response and the challenges of rebuilding the community. The interviewee reflects on the emotional ties and decisions faced by residents, emphasizing the importance of community connections despite uncertainties about the area's future development. They note the resilience of the community, especially in light of recent hardships like COVID-19, and the supportive network within Los Angeles that provided relief and shelter. The narrative underscores the value of relationships and community solidarity during recovery.",
     "deepgramOp": "2z7hh209lp",
     "aviary_url": "https://lapl.aviaryplatform.com/c/69409405787a870cb4b78c863578",
     "call_processing_status": "pending",
@@ -5661,15 +5661,15 @@
   "videoURL": "https://stream.mux.com/ty02iT1lWIAWzDr02FJWdIBB7ciAGEnZKvTgH202e021fNY/highest.mp4",
   "participants": [
     {
-      "_id": "69409424787a870cb4b78d2a",
-      "name": " Pacific Palisades resident",
+      "_id": "69409424787a870cb4b78d29",
+      "name": "Dorene Rutter",
       "user": "68d1b9f122c62b97b3daa8f0",
       "story": "69409405787a870cb4b78c86",
       "__v": 0
     },
     {
-      "_id": "69409424787a870cb4b78d29",
-      "name": "Dorene Rutter",
+      "_id": "69409424787a870cb4b78d2a",
+      "name": " Pacific Palisades resident",
       "user": "68d1b9f122c62b97b3daa8f0",
       "story": "69409405787a870cb4b78c86",
       "__v": 0

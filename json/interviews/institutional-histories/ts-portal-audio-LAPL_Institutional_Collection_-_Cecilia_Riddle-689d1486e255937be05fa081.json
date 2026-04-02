@@ -120038,7 +120038,7 @@
         "localRecordingMimeType": "video/webm;codecs=vp8,opus",
         "disableAutomaticResolutionSwitching": false,
         "autoChaptering": true,
-        "_id": "69a0f5c6b915b882701fa90f"
+        "_id": "69c94ba3a5a3aea3afb753e9"
       },
       "create_gallery": true,
       "forceTwofactorAuthentication": false,
@@ -120088,28 +120088,2323 @@
         "updated_at": "2025-08-13T22:53:35.148Z"
       }
     ],
-    "indexes": [],
+    "indexes": [
+      {
+        "created_at": "2026-04-02T18:15:39.953Z",
+        "updated_at": "2026-04-02T18:15:39.953Z",
+        "title": "Auto-generated Index (2026-04-02 18:15:39)",
+        "metadata": [
+          {
+            "index": 0,
+            "timecode": "00:00:00",
+            "time": {
+              "start": 0,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 1,
+                "line": "# Introduction and Overview of Cecilia Riddle's Career",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 2,
+                "line": "> The interviewer introduces the session, providing context about the date, location, and purpose of the interview. Cecilia Riddle is introduced with a summary of her significant roles at the Los Angeles Public Library, including her unique distinction of serving as both Central Library Director and Branch Library Services Director. The stage is set for a comprehensive discussion of her career and experiences.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 3,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 4,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 5,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Introduction and Overview of Cecilia Riddle's Career",
+            "synopsis": "The interviewer introduces the session, providing context about the date, location, and purpose of the interview. Cecilia Riddle is introduced with a summary of her significant roles at the Los Angeles Public Library, including her unique distinction of serving as both Central Library Director and Branch Library Services Director. The stage is set for a comprehensive discussion of her career and experiences.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 6,
+            "timecode": "00:01:18",
+            "time": {
+              "start": 78,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 7,
+                "line": "# Early Career and Entry into LAPL",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 8,
+                "line": "> Cecilia recounts her entry into the Los Angeles Public Library system, influenced by her family's history with the library. She describes her first interview and job as a messenger clerk at Fairfax Library, her transition to clerk typist at Hollywood Branch, and her time as a student librarian while attending UCLA. These formative experiences provided her with practical knowledge and connections that shaped her early career.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 9,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 10,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 11,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Early Career and Entry into LAPL",
+            "synopsis": "Cecilia recounts her entry into the Los Angeles Public Library system, influenced by her family's history with the library. She describes her first interview and job as a messenger clerk at Fairfax Library, her transition to clerk typist at Hollywood Branch, and her time as a student librarian while attending UCLA. These formative experiences provided her with practical knowledge and connections that shaped her early career.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 12,
+            "timecode": "00:02:18",
+            "time": {
+              "start": 138,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 13,
+                "line": "# Transition Between Branches and Early Promotions",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 14,
+                "line": "> Cecilia discusses her progression from messenger clerk to clerk typist, then to student librarian, and eventually to children's librarian at Stevenson Branch. She describes the challenges of temporary and emergency positions, her move to Brentwood, and the instability of staffing during that era. Her adaptability and willingness to serve different communities are highlighted, as well as her early promotion to senior librarian.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 15,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 16,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 17,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Transition Between Branches and Early Promotions",
+            "synopsis": "Cecilia discusses her progression from messenger clerk to clerk typist, then to student librarian, and eventually to children's librarian at Stevenson Branch. She describes the challenges of temporary and emergency positions, her move to Brentwood, and the instability of staffing during that era. Her adaptability and willingness to serve different communities are highlighted, as well as her early promotion to senior librarian.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 18,
+            "timecode": "00:12:32",
+            "time": {
+              "start": 752,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 19,
+                "line": "# Graduate School and Prop 13 Era",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 20,
+                "line": "> Cecilia reflects on the mentorship she received from Jenny Walters and others, her decision to pursue a management degree at UCLA, and the impact of Proposition 13 on library staffing and budgets. She describes the anxiety and chaos of that period, the loss of staff, and the importance of preparing for career uncertainty. Her time at Mar Vista and balancing graduate studies with work are also discussed.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 21,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 22,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 23,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Graduate School and Prop 13 Era",
+            "synopsis": "Cecilia reflects on the mentorship she received from Jenny Walters and others, her decision to pursue a management degree at UCLA, and the impact of Proposition 13 on library staffing and budgets. She describes the anxiety and chaos of that period, the loss of staff, and the importance of preparing for career uncertainty. Her time at Mar Vista and balancing graduate studies with work are also discussed.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 24,
+            "timecode": "00:17:11",
+            "time": {
+              "start": 1031,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 25,
+                "line": "# Leaving and Returning to LAPL, and the Central Library Fire",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 26,
+                "line": "> Cecilia describes her brief departure from the library to work in the private sector, her realization that public service was her true calling, and her return to LAPL. She recounts her experiences during the Central Library fire, the community's response, and the challenges faced by branch staff in maintaining services during the crisis. Her commitment to public service and adaptability are evident throughout this period.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 27,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 28,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 29,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Leaving and Returning to LAPL, and the Central Library Fire",
+            "synopsis": "Cecilia describes her brief departure from the library to work in the private sector, her realization that public service was her true calling, and her return to LAPL. She recounts her experiences during the Central Library fire, the community's response, and the challenges faced by branch staff in maintaining services during the crisis. Her commitment to public service and adaptability are evident throughout this period.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 30,
+            "timecode": "00:23:23",
+            "time": {
+              "start": 1403,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 31,
+                "line": "# Adult Book Collection Office and Family Considerations",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 32,
+                "line": "> Cecilia discusses her work in the Adult Book Collection office, the process of selecting materials before the advent of computers, and the sterile environment of administrative work. She explains her decision to move to Chatsworth to accommodate her husband's job in Santa Barbara, highlighting the importance of family considerations in her career decisions. The move also allowed her to experience a new community and continue her professional growth.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 33,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 34,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 35,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Adult Book Collection Office and Family Considerations",
+            "synopsis": "Cecilia discusses her work in the Adult Book Collection office, the process of selecting materials before the advent of computers, and the sterile environment of administrative work. She explains her decision to move to Chatsworth to accommodate her husband's job in Santa Barbara, highlighting the importance of family considerations in her career decisions. The move also allowed her to experience a new community and continue her professional growth.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 36,
+            "timecode": "00:25:38",
+            "time": {
+              "start": 1538,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 37,
+                "line": "# Chatsworth, Principal Exam, and Move to Central",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 38,
+                "line": "> Cecilia describes her time at Chatsworth, her involvement in scheduling and budgeting for branch libraries, and the encouragement she received to take the principal librarian exam. She reflects on the supportive community in Chatsworth, her eventual move to the Business Department at Central Library, and the challenges of leaving a beloved branch. Her transition to a more specialized and demanding environment at Central marks a significant step in her career.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 39,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 40,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 41,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Chatsworth, Principal Exam, and Move to Central",
+            "synopsis": "Cecilia describes her time at Chatsworth, her involvement in scheduling and budgeting for branch libraries, and the encouragement she received to take the principal librarian exam. She reflects on the supportive community in Chatsworth, her eventual move to the Business Department at Central Library, and the challenges of leaving a beloved branch. Her transition to a more specialized and demanding environment at Central marks a significant step in her career.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 42,
+            "timecode": "00:28:00",
+            "time": {
+              "start": 1680,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 43,
+                "line": "# Business Department at Central and Transition to Area Management",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 44,
+                "line": "> Cecilia details her experiences in the Business Department, including the steep learning curve and the high demands of specialized reference work. She describes the use of early computer databases, the intensity of patron needs, and the importance of teamwork. The opportunity to become East Valley area manager arises, prompting her to reflect on career decisions and the rarity of such openings. She transitions to area management during a period of civil unrest following the Rodney King incident.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 45,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 46,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 47,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Business Department at Central and Transition to Area Management",
+            "synopsis": "Cecilia details her experiences in the Business Department, including the steep learning curve and the high demands of specialized reference work. She describes the use of early computer databases, the intensity of patron needs, and the importance of teamwork. The opportunity to become East Valley area manager arises, prompting her to reflect on career decisions and the rarity of such openings. She transitions to area management during a period of civil unrest following the Rodney King incident.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 48,
+            "timecode": "00:29:06",
+            "time": {
+              "start": 1746,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 49,
+                "line": "# Transition to Automation and Organizational Culture",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 50,
+                "line": "> Cecilia describes the transition from card catalogs to OPAC, the benefits of automation, and the challenges of adapting to new technology in older buildings. She reflects on the differences between branch and Central cultures, the impact of physical space on collaboration, and efforts to foster greater interaction and respect between departments. The complexities of managing budgets and resources are also discussed.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 51,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 52,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 53,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Transition to Automation and Organizational Culture",
+            "synopsis": "Cecilia describes the transition from card catalogs to OPAC, the benefits of automation, and the challenges of adapting to new technology in older buildings. She reflects on the differences between branch and Central cultures, the impact of physical space on collaboration, and efforts to foster greater interaction and respect between departments. The complexities of managing budgets and resources are also discussed.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 54,
+            "timecode": "00:38:01",
+            "time": {
+              "start": 2281,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 55,
+                "line": "# Earthquake, Managing Multiple Regions, and Branch Projects",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 56,
+                "line": "> Cecilia recounts managing library operations during the Northridge earthquake, the challenges of relocating staff and services, and the complexities of overseeing both East and West Valley regions. She discusses the opening of new branches, the design of bookmobiles, and the logistical challenges of serving a large and diverse area. Her leadership during times of crisis and transition is emphasized.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 57,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 58,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 59,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Earthquake, Managing Multiple Regions, and Branch Projects",
+            "synopsis": "Cecilia recounts managing library operations during the Northridge earthquake, the challenges of relocating staff and services, and the complexities of overseeing both East and West Valley regions. She discusses the opening of new branches, the design of bookmobiles, and the logistical challenges of serving a large and diverse area. Her leadership during times of crisis and transition is emphasized.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 60,
+            "timecode": "00:40:11",
+            "time": {
+              "start": 2411,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 61,
+                "line": "# Move to Central Library Administration and Director Roles",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 62,
+                "line": "> Cecilia describes her move to Central Library administration, her work with Fontaine Holmes, and her eventual promotion to Central Library Director. She discusses the responsibilities of managing Central, the transition to Branch Library Services Director, and the end of her frequent relocations. Her leadership roles during a period of technological change and organizational growth are highlighted.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 63,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 64,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 65,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Move to Central Library Administration and Director Roles",
+            "synopsis": "Cecilia describes her move to Central Library administration, her work with Fontaine Holmes, and her eventual promotion to Central Library Director. She discusses the responsibilities of managing Central, the transition to Branch Library Services Director, and the end of her frequent relocations. Her leadership roles during a period of technological change and organizational growth are highlighted.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 66,
+            "timecode": "00:45:50",
+            "time": {
+              "start": 2750,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 67,
+                "line": "# Reflections on Career Path, Mentors, and Library Culture",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 68,
+                "line": "> Cecilia reflects on her career trajectory, the unique hiring processes she experienced, and the support she received from mentors and colleagues. She emphasizes the importance of curiosity, continuous learning, and the positive culture within the library. The enduring mission of public service and the sense of community among staff are recurring themes.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 69,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 70,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 71,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Reflections on Career Path, Mentors, and Library Culture",
+            "synopsis": "Cecilia reflects on her career trajectory, the unique hiring processes she experienced, and the support she received from mentors and colleagues. She emphasizes the importance of curiosity, continuous learning, and the positive culture within the library. The enduring mission of public service and the sense of community among staff are recurring themes.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 72,
+            "timecode": "00:48:45",
+            "time": {
+              "start": 2925,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 73,
+                "line": "# Changes and Continuities in LAPL and Public Service",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 74,
+                "line": "> Cecilia discusses the ways in which the library has changed and remained constant over the years. She highlights the dedication of staff, the importance of branches in connecting with communities, and the evolving nature of public service. The impact of technology, especially the introduction of computers and the internet, is noted as a major shift in service delivery.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 75,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 76,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 77,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Changes and Continuities in LAPL and Public Service",
+            "synopsis": "Cecilia discusses the ways in which the library has changed and remained constant over the years. She highlights the dedication of staff, the importance of branches in connecting with communities, and the evolving nature of public service. The impact of technology, especially the introduction of computers and the internet, is noted as a major shift in service delivery.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 78,
+            "timecode": "00:54:05",
+            "time": {
+              "start": 3245,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 79,
+                "line": "# Memorable Patron Interactions and Reference Work",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 80,
+                "line": "> Cecilia shares a memorable story about a patron couple at Mar Vista, including the husband's background as a screenwriter and his wife's history as an Olympian. She reflects on the meaningful relationships formed with patrons and the unique experiences that come from working in public service. The importance of personal connections and the diversity of library users are emphasized.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 81,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 82,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 83,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Memorable Patron Interactions and Reference Work",
+            "synopsis": "Cecilia shares a memorable story about a patron couple at Mar Vista, including the husband's background as a screenwriter and his wife's history as an Olympian. She reflects on the meaningful relationships formed with patrons and the unique experiences that come from working in public service. The importance of personal connections and the diversity of library users are emphasized.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 84,
+            "timecode": "00:55:32",
+            "time": {
+              "start": 3332,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 85,
+                "line": "# The Central Library Fire and Branch Response",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 86,
+                "line": "> Cecilia recounts the day of the Central Library fire, the immediate response from staff and the public, and the collective effort to save materials. She describes the emotional impact of the event, the role of branches in maintaining services, and the logistical challenges faced during the recovery. The sense of community and dedication to the library's mission are highlighted.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 87,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 88,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 89,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "The Central Library Fire and Branch Response",
+            "synopsis": "Cecilia recounts the day of the Central Library fire, the immediate response from staff and the public, and the collective effort to save materials. She describes the emotional impact of the event, the role of branches in maintaining services, and the logistical challenges faced during the recovery. The sense of community and dedication to the library's mission are highlighted.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 90,
+            "timecode": "01:00:44",
+            "time": {
+              "start": 3644,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 91,
+                "line": "# Reopening Central, Branch Liaison, and the 1990s",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 92,
+                "line": "> Cecilia discusses her role as branch liaison during the reopening of Central Library, her participation in planning committees, and the excitement surrounding the event. She reflects on the challenges of documentation, the transition to automation, and the rise of neighborhood councils. The 1990s are characterized by movement, change, and the expansion of library services.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 93,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 94,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 95,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Reopening Central, Branch Liaison, and the 1990s",
+            "synopsis": "Cecilia discusses her role as branch liaison during the reopening of Central Library, her participation in planning committees, and the excitement surrounding the event. She reflects on the challenges of documentation, the transition to automation, and the rise of neighborhood councils. The 1990s are characterized by movement, change, and the expansion of library services.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 96,
+            "timecode": "01:16:46",
+            "time": {
+              "start": 4606,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 97,
+                "line": "# Branch and Regional Cultures, Leadership Styles, and Fiefdoms",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 98,
+                "line": "> Cecilia and the interviewer explore the variations in branch and regional cultures, the influence of leadership styles, and the sense of community within different areas. They discuss the challenges of isolation, the importance of regional meetings, and the role of managers in shaping organizational culture. The conversation highlights the diversity of experiences across the library system.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 99,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 100,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 101,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Branch and Regional Cultures, Leadership Styles, and Fiefdoms",
+            "synopsis": "Cecilia and the interviewer explore the variations in branch and regional cultures, the influence of leadership styles, and the sense of community within different areas. They discuss the challenges of isolation, the importance of regional meetings, and the role of managers in shaping organizational culture. The conversation highlights the diversity of experiences across the library system.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 102,
+            "timecode": "01:20:44",
+            "time": {
+              "start": 4844,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 103,
+                "line": "# Program Evaluation, Public-Private Partnerships, and Outreach",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 104,
+                "line": "> The discussion turns to program evaluation, the emergence of public-private partnerships, and the role of the library foundation in supporting programs. Cecilia describes outreach efforts, collaborations with community organizations, and the ongoing need to adapt services to meet changing needs. The importance of listening to the community and leveraging external support is emphasized.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 105,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 106,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 107,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Program Evaluation, Public-Private Partnerships, and Outreach",
+            "synopsis": "The discussion turns to program evaluation, the emergence of public-private partnerships, and the role of the library foundation in supporting programs. Cecilia describes outreach efforts, collaborations with community organizations, and the ongoing need to adapt services to meet changing needs. The importance of listening to the community and leveraging external support is emphasized.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 108,
+            "timecode": "01:31:33",
+            "time": {
+              "start": 5493,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 109,
+                "line": "# Challenges and Projects as Central Library Director",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 110,
+                "line": "> Cecilia outlines the challenges she faced as Central Library Director, including budget constraints, the reduction of serials, and the need to balance resources between departments. She describes major projects such as the creation of the computer center, improvements to wayfinding and signage, and the development of the popular library. Her efforts to enhance public service and adapt to changing technology are highlighted.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 111,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 112,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 113,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Challenges and Projects as Central Library Director",
+            "synopsis": "Cecilia outlines the challenges she faced as Central Library Director, including budget constraints, the reduction of serials, and the need to balance resources between departments. She describes major projects such as the creation of the computer center, improvements to wayfinding and signage, and the development of the popular library. Her efforts to enhance public service and adapt to changing technology are highlighted.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 114,
+            "timecode": "01:59:28",
+            "time": {
+              "start": 7168,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 115,
+                "line": "# Branch Library Services Director, Building Program, and Community Engagement",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 116,
+                "line": "> Cecilia discusses her tenure as Branch Library Services Director, overseeing a period of significant hiring and the completion of the building program. She describes the excitement of opening new branches, engagement with city officials and community leaders, and the importance of outreach and consistent programming. The challenges of layoffs and the impact of economic downturns are also addressed.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 117,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 118,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 119,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Branch Library Services Director, Building Program, and Community Engagement",
+            "synopsis": "Cecilia discusses her tenure as Branch Library Services Director, overseeing a period of significant hiring and the completion of the building program. She describes the excitement of opening new branches, engagement with city officials and community leaders, and the importance of outreach and consistent programming. The challenges of layoffs and the impact of economic downturns are also addressed.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 120,
+            "timecode": "02:07:05",
+            "time": {
+              "start": 7625,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 121,
+                "line": "# Retirement, Brain Drain, and Reflections on Leaving",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 122,
+                "line": "> Cecilia reflects on the wave of retirements prompted by a golden handshake, the resulting loss of institutional knowledge, and her decision to retire at a relatively young age. She discusses the transition to retirement, the opportunities and challenges faced by the library, and her continued connection to former colleagues. Her positive outlook and appreciation for her career and the library's future are evident in her closing remarks.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 123,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 124,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 125,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 126,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Retirement, Brain Drain, and Reflections on Leaving",
+            "synopsis": "Cecilia reflects on the wave of retirements prompted by a golden handshake, the resulting loss of institutional knowledge, and her decision to retire at a relatively young age. She discusses the transition to retirement, the opportunities and challenges faced by the library, and her continued connection to former colleagues. Her positive outlook and appreciation for her career and the library's future are evident in her closing remarks.",
+            "notes": "",
+            "keywords": ""
+          }
+        ],
+        "notes": [
+          {
+            "children": [
+              {
+                "text": "[00:00:00]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Introduction and Overview of Cecilia Riddle's Career"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> The interviewer introduces the session, providing context about the date, location, and purpose of the interview. Cecilia Riddle is introduced with a summary of her significant roles at the Los Angeles Public Library, including her unique distinction of serving as both Central Library Director and Branch Library Services Director. The stage is set for a comprehensive discussion of her career and experiences."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:01:18]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Early Career and Entry into LAPL"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Cecilia recounts her entry into the Los Angeles Public Library system, influenced by her family's history with the library. She describes her first interview and job as a messenger clerk at Fairfax Library, her transition to clerk typist at Hollywood Branch, and her time as a student librarian while attending UCLA. These formative experiences provided her with practical knowledge and connections that shaped her early career."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:02:18]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Transition Between Branches and Early Promotions"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Cecilia discusses her progression from messenger clerk to clerk typist, then to student librarian, and eventually to children's librarian at Stevenson Branch. She describes the challenges of temporary and emergency positions, her move to Brentwood, and the instability of staffing during that era. Her adaptability and willingness to serve different communities are highlighted, as well as her early promotion to senior librarian."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:12:32]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Graduate School and Prop 13 Era"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Cecilia reflects on the mentorship she received from Jenny Walters and others, her decision to pursue a management degree at UCLA, and the impact of Proposition 13 on library staffing and budgets. She describes the anxiety and chaos of that period, the loss of staff, and the importance of preparing for career uncertainty. Her time at Mar Vista and balancing graduate studies with work are also discussed."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:17:11]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Leaving and Returning to LAPL, and the Central Library Fire"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Cecilia describes her brief departure from the library to work in the private sector, her realization that public service was her true calling, and her return to LAPL. She recounts her experiences during the Central Library fire, the community's response, and the challenges faced by branch staff in maintaining services during the crisis. Her commitment to public service and adaptability are evident throughout this period."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:23:23]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Adult Book Collection Office and Family Considerations"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Cecilia discusses her work in the Adult Book Collection office, the process of selecting materials before the advent of computers, and the sterile environment of administrative work. She explains her decision to move to Chatsworth to accommodate her husband's job in Santa Barbara, highlighting the importance of family considerations in her career decisions. The move also allowed her to experience a new community and continue her professional growth."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:25:38]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Chatsworth, Principal Exam, and Move to Central"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Cecilia describes her time at Chatsworth, her involvement in scheduling and budgeting for branch libraries, and the encouragement she received to take the principal librarian exam. She reflects on the supportive community in Chatsworth, her eventual move to the Business Department at Central Library, and the challenges of leaving a beloved branch. Her transition to a more specialized and demanding environment at Central marks a significant step in her career."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:28:00]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Business Department at Central and Transition to Area Management"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Cecilia details her experiences in the Business Department, including the steep learning curve and the high demands of specialized reference work. She describes the use of early computer databases, the intensity of patron needs, and the importance of teamwork. The opportunity to become East Valley area manager arises, prompting her to reflect on career decisions and the rarity of such openings. She transitions to area management during a period of civil unrest following the Rodney King incident."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:29:06]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Transition to Automation and Organizational Culture"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Cecilia describes the transition from card catalogs to OPAC, the benefits of automation, and the challenges of adapting to new technology in older buildings. She reflects on the differences between branch and Central cultures, the impact of physical space on collaboration, and efforts to foster greater interaction and respect between departments. The complexities of managing budgets and resources are also discussed."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:38:01]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Earthquake, Managing Multiple Regions, and Branch Projects"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Cecilia recounts managing library operations during the Northridge earthquake, the challenges of relocating staff and services, and the complexities of overseeing both East and West Valley regions. She discusses the opening of new branches, the design of bookmobiles, and the logistical challenges of serving a large and diverse area. Her leadership during times of crisis and transition is emphasized."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:40:11]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Move to Central Library Administration and Director Roles"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Cecilia describes her move to Central Library administration, her work with Fontaine Holmes, and her eventual promotion to Central Library Director. She discusses the responsibilities of managing Central, the transition to Branch Library Services Director, and the end of her frequent relocations. Her leadership roles during a period of technological change and organizational growth are highlighted."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:45:50]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Reflections on Career Path, Mentors, and Library Culture"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Cecilia reflects on her career trajectory, the unique hiring processes she experienced, and the support she received from mentors and colleagues. She emphasizes the importance of curiosity, continuous learning, and the positive culture within the library. The enduring mission of public service and the sense of community among staff are recurring themes."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:48:45]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Changes and Continuities in LAPL and Public Service"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Cecilia discusses the ways in which the library has changed and remained constant over the years. She highlights the dedication of staff, the importance of branches in connecting with communities, and the evolving nature of public service. The impact of technology, especially the introduction of computers and the internet, is noted as a major shift in service delivery."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:54:05]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Memorable Patron Interactions and Reference Work"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Cecilia shares a memorable story about a patron couple at Mar Vista, including the husband's background as a screenwriter and his wife's history as an Olympian. She reflects on the meaningful relationships formed with patrons and the unique experiences that come from working in public service. The importance of personal connections and the diversity of library users are emphasized."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:55:32]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# The Central Library Fire and Branch Response"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Cecilia recounts the day of the Central Library fire, the immediate response from staff and the public, and the collective effort to save materials. She describes the emotional impact of the event, the role of branches in maintaining services, and the logistical challenges faced during the recovery. The sense of community and dedication to the library's mission are highlighted."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[01:00:44]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Reopening Central, Branch Liaison, and the 1990s"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Cecilia discusses her role as branch liaison during the reopening of Central Library, her participation in planning committees, and the excitement surrounding the event. She reflects on the challenges of documentation, the transition to automation, and the rise of neighborhood councils. The 1990s are characterized by movement, change, and the expansion of library services."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[01:16:46]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Branch and Regional Cultures, Leadership Styles, and Fiefdoms"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Cecilia and the interviewer explore the variations in branch and regional cultures, the influence of leadership styles, and the sense of community within different areas. They discuss the challenges of isolation, the importance of regional meetings, and the role of managers in shaping organizational culture. The conversation highlights the diversity of experiences across the library system."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[01:20:44]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Program Evaluation, Public-Private Partnerships, and Outreach"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> The discussion turns to program evaluation, the emergence of public-private partnerships, and the role of the library foundation in supporting programs. Cecilia describes outreach efforts, collaborations with community organizations, and the ongoing need to adapt services to meet changing needs. The importance of listening to the community and leveraging external support is emphasized."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[01:31:33]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Challenges and Projects as Central Library Director"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Cecilia outlines the challenges she faced as Central Library Director, including budget constraints, the reduction of serials, and the need to balance resources between departments. She describes major projects such as the creation of the computer center, improvements to wayfinding and signage, and the development of the popular library. Her efforts to enhance public service and adapt to changing technology are highlighted."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[01:59:28]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Branch Library Services Director, Building Program, and Community Engagement"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Cecilia discusses her tenure as Branch Library Services Director, overseeing a period of significant hiring and the completion of the building program. She describes the excitement of opening new branches, engagement with city officials and community leaders, and the importance of outreach and consistent programming. The challenges of layoffs and the impact of economic downturns are also addressed."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[02:07:05]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Retirement, Brain Drain, and Reflections on Leaving"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Cecilia reflects on the wave of retirements prompted by a golden handshake, the resulting loss of institutional knowledge, and her decision to retire at a relatively young age. She discusses the transition to retirement, the opportunities and challenges faced by the library, and her continued connection to former colleagues. Her positive outlook and appreciation for her career and the library's future are evident in her closing remarks."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "_id": "69ceb24bf723fb09caeea03f"
+      }
+    ],
     "chat": [],
     "created_at": "2025-08-13T22:41:10.685Z",
-    "updated_at": "2026-02-27T01:45:25.955Z",
+    "updated_at": "2026-04-02T18:45:42.904Z",
     "__v": 1,
     "opentok_session_id": "1_MX40NTk3Njc0Mn4xMjcuMC4wLjF-MTc1NTEyNDg3MDI2OX45aFBaZExlWmdJRFYwdDhDTGhVeEw2SzV-fn4",
     "custom_archive_media_type": "audio/m4a",
     "custom_archive_url": "uploads/0c02fbd3-cbf7-403d-b7d4-7ccd8010d7e1/transcoded.m4a",
     "notes": "",
     "title": "LAPL Institutional Collection - Cecilia Riddle",
-    "duration": 7900,
+    "duration": 7900.055781,
     "recording_size": 252805881,
     "description": "Cecilia Riddle, who at the time of her retirement was the Director of Branch Library Services, is interviewed by Jim Sherman, Librarian II in the Literature & Fiction Department. The interview was conducted on August 13, 2025 in the Octavia Lab at Central Library.",
     "deepgramOp": "9zovefrxdd",
     "aviary_url": "https://lapl.aviaryplatform.com/c/689d1486e255937be05fa0812368",
     "weaviate_operation": {
       "chunk_count": 66,
-      "content_version": 1,
+      "content_version": 2,
       "model_used": "text-embedding-3-small",
       "status": "completed",
       "created_at": "2026-02-27T01:45:09.946Z",
-      "updated_at": "2026-02-27T01:45:09.946Z"
+      "updated_at": "2026-04-02T18:16:07.494Z"
     },
     "call_processing_status": "pending",
     "call_processing_step": "idle",

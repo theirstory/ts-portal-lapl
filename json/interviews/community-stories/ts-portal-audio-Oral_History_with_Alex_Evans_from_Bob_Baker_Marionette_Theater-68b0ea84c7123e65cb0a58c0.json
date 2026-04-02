@@ -78617,7 +78617,7 @@
         "localRecordingMimeType": "video/webm;codecs=vp8,opus",
         "disableAutomaticResolutionSwitching": false,
         "autoChaptering": true,
-        "_id": "69a0ad78890f3f7f42eee195"
+        "_id": "69cd359e1ca0b49fa6449972"
       },
       "aviary_token": "",
       "aviary_client": ""
@@ -78663,10 +78663,2089 @@
         "updated_at": "2025-08-28T23:57:44.725Z"
       }
     ],
-    "indexes": [],
+    "indexes": [
+      {
+        "created_at": "2026-04-02T19:17:20.378Z",
+        "updated_at": "2026-04-02T19:17:20.378Z",
+        "title": "Auto-generated Index (2026-04-02 19:17:20)",
+        "metadata": [
+          {
+            "index": 0,
+            "timecode": "00:00:00",
+            "time": {
+              "start": 0,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 1,
+                "line": "# Introduction and Interview Setup",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 2,
+                "line": "> The interviewer, Estella Burke, introduces herself, the date, and the location of the interview at Bob Baker Marionette Theatre. She asks Alex Evans to introduce himself, specify his pronouns, and describe his role at the theatre. This opening establishes the context and participants for the conversation.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 3,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 4,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 5,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Introduction and Interview Setup",
+            "synopsis": "The interviewer, Estella Burke, introduces herself, the date, and the location of the interview at Bob Baker Marionette Theatre. She asks Alex Evans to introduce himself, specify his pronouns, and describe his role at the theatre. This opening establishes the context and participants for the conversation.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 6,
+            "timecode": "00:00:59",
+            "time": {
+              "start": 59,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 7,
+                "line": "# Childhood and Early Years",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 8,
+                "line": "> Alex Evans shares details about his birthplace in Jersey, a British Channel Island, and his family's moves to England, New England, Georgia, and eventually California. He reflects on the impact of moving frequently, comparing his experience to friends who stayed in one place, and discusses the sense of consistency and varied experiences that shaped his upbringing.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 9,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 10,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 11,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Childhood and Early Years",
+            "synopsis": "Alex Evans shares details about his birthplace in Jersey, a British Channel Island, and his family's moves to England, New England, Georgia, and eventually California. He reflects on the impact of moving frequently, comparing his experience to friends who stayed in one place, and discusses the sense of consistency and varied experiences that shaped his upbringing.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 12,
+            "timecode": "00:04:22",
+            "time": {
+              "start": 262,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 13,
+                "line": "# Creativity in Childhood and Influences",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 14,
+                "line": "> Alex credits his mother as his primary creative influence, describing her home economics background and creative activities like making birthday cakes and scrapbooks. He recalls her involvement in youth groups and storytelling, and notes his own eclectic interests in art, biking, and crafts, emphasizing the everyday creativity that surrounded him growing up.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 15,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 16,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 17,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Creativity in Childhood and Influences",
+            "synopsis": "Alex credits his mother as his primary creative influence, describing her home economics background and creative activities like making birthday cakes and scrapbooks. He recalls her involvement in youth groups and storytelling, and notes his own eclectic interests in art, biking, and crafts, emphasizing the everyday creativity that surrounded him growing up.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 18,
+            "timecode": "00:07:06",
+            "time": {
+              "start": 426,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 19,
+                "line": "# School Experiences and Adolescence",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 20,
+                "line": "> Alex discusses his transition to American schools in sixth grade, his shyness, and the search for identity during adolescence. He describes feeling out of place, the role of being 'the English kid,' and his tendency to keep a low profile, especially after moving to Georgia for high school. He reflects on the countdown to graduation and his lack of lasting connections during this period.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 21,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 22,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 23,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "School Experiences and Adolescence",
+            "synopsis": "Alex discusses his transition to American schools in sixth grade, his shyness, and the search for identity during adolescence. He describes feeling out of place, the role of being 'the English kid,' and his tendency to keep a low profile, especially after moving to Georgia for high school. He reflects on the countdown to graduation and his lack of lasting connections during this period.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 24,
+            "timecode": "00:09:45",
+            "time": {
+              "start": 585,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 25,
+                "line": "# Moving to Los Angeles and First Encounter with Bob Baker Theatre",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 26,
+                "line": "> Alex explains that his move to Los Angeles was motivated by his interest in film and photography, seeking internships in the movie industry. He describes discovering the Bob Baker Marionette Theatre through a Google search, being captivated by its magical atmosphere, and how this unexpected encounter became his gateway to LA's deeper cultural layers and community.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 27,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 28,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 29,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Moving to Los Angeles and First Encounter with Bob Baker Theatre",
+            "synopsis": "Alex explains that his move to Los Angeles was motivated by his interest in film and photography, seeking internships in the movie industry. He describes discovering the Bob Baker Marionette Theatre through a Google search, being captivated by its magical atmosphere, and how this unexpected encounter became his gateway to LA's deeper cultural layers and community.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 30,
+            "timecode": "00:13:07",
+            "time": {
+              "start": 787,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 31,
+                "line": "# Introduction to Puppetry and Early Experiences at Bob Baker",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 32,
+                "line": "> Alex recounts his early interest in stop motion animation and his initial skepticism toward marionettes. He describes his first formal experience with puppetry at Bob Baker, where he was amazed by the magic and artistry of the performances. His appreciation for puppetry grew through his involvement with the theatre, which became central to his creative life.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 33,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 34,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 35,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Introduction to Puppetry and Early Experiences at Bob Baker",
+            "synopsis": "Alex recounts his early interest in stop motion animation and his initial skepticism toward marionettes. He describes his first formal experience with puppetry at Bob Baker, where he was amazed by the magic and artistry of the performances. His appreciation for puppetry grew through his involvement with the theatre, which became central to his creative life.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 36,
+            "timecode": "00:14:59",
+            "time": {
+              "start": 899,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 37,
+                "line": "# Transition from Film to Puppetry and Emotional Impact",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 38,
+                "line": "> Alex discusses how working at Bob Baker felt distinct from his film studies, yet remained connected to Hollywood and history. He describes balancing editing work with theatre duties, the financial challenges of the theatre, and the gradual realization that his path was diverging from his original film ambitions. The emotional and interpersonal aspects of this shift are highlighted.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 39,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 40,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 41,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Transition from Film to Puppetry and Emotional Impact",
+            "synopsis": "Alex discusses how working at Bob Baker felt distinct from his film studies, yet remained connected to Hollywood and history. He describes balancing editing work with theatre duties, the financial challenges of the theatre, and the gradual realization that his path was diverging from his original film ambitions. The emotional and interpersonal aspects of this shift are highlighted.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 42,
+            "timecode": "00:16:59",
+            "time": {
+              "start": 1019,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 43,
+                "line": "# Learning Puppetry and Culture at Bob Baker",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 44,
+                "line": "> Alex explains that while formal puppetry classes exist, his own training at Bob Baker was informal and hands-on. He describes the welcoming culture among puppeteers, the apprenticeship-like learning process, and the contrast between Bob Baker's traditional expertise and the scruffy, independent spirit of the staff. He reflects on the validation and community that shaped his development as a puppeteer.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 45,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 46,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 47,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Learning Puppetry and Culture at Bob Baker",
+            "synopsis": "Alex explains that while formal puppetry classes exist, his own training at Bob Baker was informal and hands-on. He describes the welcoming culture among puppeteers, the apprenticeship-like learning process, and the contrast between Bob Baker's traditional expertise and the scruffy, independent spirit of the staff. He reflects on the validation and community that shaped his development as a puppeteer.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 48,
+            "timecode": "00:22:35",
+            "time": {
+              "start": 1355,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 49,
+                "line": "# The Puppet Collection: Numbers, Reuse, and Restoration",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 50,
+                "line": "> Alex estimates the theatre's puppet collection at around 3,000, though recent photo documentation suggests a lower number. He discusses the reuse of puppets across shows, the emotional significance of certain characters, and the challenges of repairing or retiring puppets. The process involves balancing historical preservation with practical restoration, maintaining the theatre's living legacy.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 51,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 52,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 53,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "The Puppet Collection: Numbers, Reuse, and Restoration",
+            "synopsis": "Alex estimates the theatre's puppet collection at around 3,000, though recent photo documentation suggests a lower number. He discusses the reuse of puppets across shows, the emotional significance of certain characters, and the challenges of repairing or retiring puppets. The process involves balancing historical preservation with practical restoration, maintaining the theatre's living legacy.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 54,
+            "timecode": "00:32:44",
+            "time": {
+              "start": 1964,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 55,
+                "line": "# Favorite Puppets and Performer Perspectives",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 56,
+                "line": "> Alex reflects on the difficulty of choosing a favorite puppet, noting that each has unique qualities and significance. He describes how performers develop emotional connections to puppets, the learning curve involved, and the joy of discovering the magic in even the simplest designs. The abundance and diversity of puppets contribute to the theatre's enduring charm.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 57,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 58,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 59,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Favorite Puppets and Performer Perspectives",
+            "synopsis": "Alex reflects on the difficulty of choosing a favorite puppet, noting that each has unique qualities and significance. He describes how performers develop emotional connections to puppets, the learning curve involved, and the joy of discovering the magic in even the simplest designs. The abundance and diversity of puppets contribute to the theatre's enduring charm.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 60,
+            "timecode": "00:34:29",
+            "time": {
+              "start": 2069,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 61,
+                "line": "# Audience Experience and All-Ages Appeal",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 62,
+                "line": "> The conversation explores the shared experience of attending Bob Baker shows, the excitement of introducing newcomers, and the theatre's appeal to all ages. Alex and Estella discuss the magic of seeing familiar and new puppets, the sense of community, and the importance of creating a space where both children and adults can feel safe and joyful. The theatre is likened to a 'third place' similar to the public library.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 63,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 64,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 65,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Audience Experience and All-Ages Appeal",
+            "synopsis": "The conversation explores the shared experience of attending Bob Baker shows, the excitement of introducing newcomers, and the theatre's appeal to all ages. Alex and Estella discuss the magic of seeing familiar and new puppets, the sense of community, and the importance of creating a space where both children and adults can feel safe and joyful. The theatre is likened to a 'third place' similar to the public library.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 66,
+            "timecode": "00:39:32",
+            "time": {
+              "start": 2372,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 67,
+                "line": "# Show Development, Choreography, and Rehearsal",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 68,
+                "line": "> Alex describes the process of developing new shows, including the creation of new puppets, choreography, and rehearsal. He explains the collaborative nature of show development, the influence of Bob Baker's legacy, and the challenges of balancing tradition with innovation. The practical aspects of mounting shows, budgeting, and refining performances are discussed, highlighting the ongoing evolution of the theatre's repertoire.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 69,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 70,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 71,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Show Development, Choreography, and Rehearsal",
+            "synopsis": "Alex describes the process of developing new shows, including the creation of new puppets, choreography, and rehearsal. He explains the collaborative nature of show development, the influence of Bob Baker's legacy, and the challenges of balancing tradition with innovation. The practical aspects of mounting shows, budgeting, and refining performances are discussed, highlighting the ongoing evolution of the theatre's repertoire.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 72,
+            "timecode": "00:48:35",
+            "time": {
+              "start": 2915,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 73,
+                "line": "# History of Bob Baker Theatre and Puppetry in Los Angeles",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 74,
+                "line": "> Alex provides an overview of Bob Baker's early life, his first theatre in Koreatown, and his lifelong passion for puppetry. He recounts the golden age of marionettes in LA, Bob's involvement in World War II, collaborations with influential figures, and the eventual founding of the Bob Baker Marionette Theatre in 1963. The theatre's history is intertwined with a broader community of artists and designers, reflecting its deep roots in Los Angeles.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 75,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 76,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 77,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "History of Bob Baker Theatre and Puppetry in Los Angeles",
+            "synopsis": "Alex provides an overview of Bob Baker's early life, his first theatre in Koreatown, and his lifelong passion for puppetry. He recounts the golden age of marionettes in LA, Bob's involvement in World War II, collaborations with influential figures, and the eventual founding of the Bob Baker Marionette Theatre in 1963. The theatre's history is intertwined with a broader community of artists and designers, reflecting its deep roots in Los Angeles.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 78,
+            "timecode": "00:57:22",
+            "time": {
+              "start": 3442,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 79,
+                "line": "# Moving from Echo Park to Highland Park: Challenges and Community",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 80,
+                "line": "> Alex discusses the emotional challenges of moving the theatre from Echo Park to Highland Park, the uncertainty surrounding the old location, and the collective effort to find a new home. He describes the community's involvement, the practical and financial hurdles, and the sense of momentum and hope that accompanied the transition. The new location quickly became a welcoming space, thanks to the dedication of volunteers and supporters.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 81,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 82,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 83,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Moving from Echo Park to Highland Park: Challenges and Community",
+            "synopsis": "Alex discusses the emotional challenges of moving the theatre from Echo Park to Highland Park, the uncertainty surrounding the old location, and the collective effort to find a new home. He describes the community's involvement, the practical and financial hurdles, and the sense of momentum and hope that accompanied the transition. The new location quickly became a welcoming space, thanks to the dedication of volunteers and supporters.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 84,
+            "timecode": "01:10:23",
+            "time": {
+              "start": 4223,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 85,
+                "line": "# Preserving Memories and Symbols in the Move",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 86,
+                "line": "> The conversation focuses on the intentional preservation of symbols and memories during the move, such as the clown marquee and other iconic elements. Alex explains the collaborative process of selecting meaningful details, the emotional connections to objects, and the importance of maintaining the spirit of the theatre. The new space incorporates elements from the old location, ensuring continuity and honoring the theatre's legacy.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 87,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 88,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 89,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Preserving Memories and Symbols in the Move",
+            "synopsis": "The conversation focuses on the intentional preservation of symbols and memories during the move, such as the clown marquee and other iconic elements. Alex explains the collaborative process of selecting meaningful details, the emotional connections to objects, and the importance of maintaining the spirit of the theatre. The new space incorporates elements from the old location, ensuring continuity and honoring the theatre's legacy.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 90,
+            "timecode": "01:14:55",
+            "time": {
+              "start": 4495,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 91,
+                "line": "# Community Changes and Growth",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 92,
+                "line": "> Alex describes the growth and changes in the Bob Baker community after the move to Highland Park. He notes the increase in audience size, the shift in staff demographics, and the theatre's role in the neighborhood. The community's commitment to keeping the theatre open is emphasized, with contributions ranging from volunteering to financial support. The theatre's expansion has brought new challenges and opportunities for engagement.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 93,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 94,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 95,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Community Changes and Growth",
+            "synopsis": "Alex describes the growth and changes in the Bob Baker community after the move to Highland Park. He notes the increase in audience size, the shift in staff demographics, and the theatre's role in the neighborhood. The community's commitment to keeping the theatre open is emphasized, with contributions ranging from volunteering to financial support. The theatre's expansion has brought new challenges and opportunities for engagement.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 96,
+            "timecode": "01:23:41",
+            "time": {
+              "start": 5021,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 97,
+                "line": "# COVID-19 and Mobile Puppet Shows",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 98,
+                "line": "> Alex recounts how the theatre adapted during the COVID-19 pandemic, including filming content, keeping staff on payroll, and launching mobile puppet shows through windows and online. The period fostered intimate connections with the community, creative problem-solving, and a successful fundraising campaign. The theatre's resilience and the community's support were crucial in navigating the challenges of the pandemic.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 99,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 100,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 101,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "COVID-19 and Mobile Puppet Shows",
+            "synopsis": "Alex recounts how the theatre adapted during the COVID-19 pandemic, including filming content, keeping staff on payroll, and launching mobile puppet shows through windows and online. The period fostered intimate connections with the community, creative problem-solving, and a successful fundraising campaign. The theatre's resilience and the community's support were crucial in navigating the challenges of the pandemic.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 102,
+            "timecode": "01:31:18",
+            "time": {
+              "start": 5478,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 103,
+                "line": "# Bob Baker Puppets in Media and Hollywood",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 104,
+                "line": "> Alex discusses the theatre's involvement in media and Hollywood, including fulfilling requests for puppets in movies, music videos, and other productions. He describes the unpredictability of the business, the complexities of pricing and logistics, and the excitement of working with celebrities and large-scale projects. The theatre's role in training puppeteers and contributing to storytelling across various platforms is highlighted.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 105,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 106,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 107,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Bob Baker Puppets in Media and Hollywood",
+            "synopsis": "Alex discusses the theatre's involvement in media and Hollywood, including fulfilling requests for puppets in movies, music videos, and other productions. He describes the unpredictability of the business, the complexities of pricing and logistics, and the excitement of working with celebrities and large-scale projects. The theatre's role in training puppeteers and contributing to storytelling across various platforms is highlighted.",
+            "notes": "",
+            "keywords": ""
+          },
+          {
+            "index": 108,
+            "timecode": "01:38:32",
+            "time": {
+              "start": 5912,
+              "end": null
+            },
+            "lines": [
+              {
+                "index": 109,
+                "line": "# Future Plans and Legacy",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 110,
+                "line": "> Alex outlines the theatre's future plans, including securing ownership of the building, redirecting resources to staff and programs, and developing sustainable, impactful initiatives. He expresses aspirations for expanding the theatre's presence, possibly reclaiming the old building, and fostering imagination and creativity. The commitment to ensuring the theatre's longevity and legacy for future generations is emphasized.",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 111,
+                "line": "** **",
+                "empty": false,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": [
+                  [
+                    "** **",
+                    "",
+                    "**"
+                  ]
+                ]
+              },
+              {
+                "index": 112,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 113,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              },
+              {
+                "index": 114,
+                "line": "",
+                "empty": true,
+                "timecodes": [],
+                "times": [],
+                "matches": [],
+                "keywords": []
+              }
+            ],
+            "timecodes": [],
+            "title": "Future Plans and Legacy",
+            "synopsis": "Alex outlines the theatre's future plans, including securing ownership of the building, redirecting resources to staff and programs, and developing sustainable, impactful initiatives. He expresses aspirations for expanding the theatre's presence, possibly reclaiming the old building, and fostering imagination and creativity. The commitment to ensuring the theatre's longevity and legacy for future generations is emphasized.",
+            "notes": "",
+            "keywords": ""
+          }
+        ],
+        "notes": [
+          {
+            "children": [
+              {
+                "text": "[00:00:00]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Introduction and Interview Setup"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> The interviewer, Estella Burke, introduces herself, the date, and the location of the interview at Bob Baker Marionette Theatre. She asks Alex Evans to introduce himself, specify his pronouns, and describe his role at the theatre. This opening establishes the context and participants for the conversation."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:00:59]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Childhood and Early Years"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Alex Evans shares details about his birthplace in Jersey, a British Channel Island, and his family's moves to England, New England, Georgia, and eventually California. He reflects on the impact of moving frequently, comparing his experience to friends who stayed in one place, and discusses the sense of consistency and varied experiences that shaped his upbringing."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:04:22]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Creativity in Childhood and Influences"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Alex credits his mother as his primary creative influence, describing her home economics background and creative activities like making birthday cakes and scrapbooks. He recalls her involvement in youth groups and storytelling, and notes his own eclectic interests in art, biking, and crafts, emphasizing the everyday creativity that surrounded him growing up."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:07:06]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# School Experiences and Adolescence"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Alex discusses his transition to American schools in sixth grade, his shyness, and the search for identity during adolescence. He describes feeling out of place, the role of being 'the English kid,' and his tendency to keep a low profile, especially after moving to Georgia for high school. He reflects on the countdown to graduation and his lack of lasting connections during this period."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:09:45]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Moving to Los Angeles and First Encounter with Bob Baker Theatre"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Alex explains that his move to Los Angeles was motivated by his interest in film and photography, seeking internships in the movie industry. He describes discovering the Bob Baker Marionette Theatre through a Google search, being captivated by its magical atmosphere, and how this unexpected encounter became his gateway to LA's deeper cultural layers and community."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:13:07]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Introduction to Puppetry and Early Experiences at Bob Baker"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Alex recounts his early interest in stop motion animation and his initial skepticism toward marionettes. He describes his first formal experience with puppetry at Bob Baker, where he was amazed by the magic and artistry of the performances. His appreciation for puppetry grew through his involvement with the theatre, which became central to his creative life."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:14:59]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Transition from Film to Puppetry and Emotional Impact"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Alex discusses how working at Bob Baker felt distinct from his film studies, yet remained connected to Hollywood and history. He describes balancing editing work with theatre duties, the financial challenges of the theatre, and the gradual realization that his path was diverging from his original film ambitions. The emotional and interpersonal aspects of this shift are highlighted."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:16:59]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Learning Puppetry and Culture at Bob Baker"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Alex explains that while formal puppetry classes exist, his own training at Bob Baker was informal and hands-on. He describes the welcoming culture among puppeteers, the apprenticeship-like learning process, and the contrast between Bob Baker's traditional expertise and the scruffy, independent spirit of the staff. He reflects on the validation and community that shaped his development as a puppeteer."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:22:35]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# The Puppet Collection: Numbers, Reuse, and Restoration"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Alex estimates the theatre's puppet collection at around 3,000, though recent photo documentation suggests a lower number. He discusses the reuse of puppets across shows, the emotional significance of certain characters, and the challenges of repairing or retiring puppets. The process involves balancing historical preservation with practical restoration, maintaining the theatre's living legacy."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:32:44]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Favorite Puppets and Performer Perspectives"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Alex reflects on the difficulty of choosing a favorite puppet, noting that each has unique qualities and significance. He describes how performers develop emotional connections to puppets, the learning curve involved, and the joy of discovering the magic in even the simplest designs. The abundance and diversity of puppets contribute to the theatre's enduring charm."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:34:29]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Audience Experience and All-Ages Appeal"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> The conversation explores the shared experience of attending Bob Baker shows, the excitement of introducing newcomers, and the theatre's appeal to all ages. Alex and Estella discuss the magic of seeing familiar and new puppets, the sense of community, and the importance of creating a space where both children and adults can feel safe and joyful. The theatre is likened to a 'third place' similar to the public library."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:39:32]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Show Development, Choreography, and Rehearsal"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Alex describes the process of developing new shows, including the creation of new puppets, choreography, and rehearsal. He explains the collaborative nature of show development, the influence of Bob Baker's legacy, and the challenges of balancing tradition with innovation. The practical aspects of mounting shows, budgeting, and refining performances are discussed, highlighting the ongoing evolution of the theatre's repertoire."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:48:35]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# History of Bob Baker Theatre and Puppetry in Los Angeles"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Alex provides an overview of Bob Baker's early life, his first theatre in Koreatown, and his lifelong passion for puppetry. He recounts the golden age of marionettes in LA, Bob's involvement in World War II, collaborations with influential figures, and the eventual founding of the Bob Baker Marionette Theatre in 1963. The theatre's history is intertwined with a broader community of artists and designers, reflecting its deep roots in Los Angeles."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[00:57:22]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Moving from Echo Park to Highland Park: Challenges and Community"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Alex discusses the emotional challenges of moving the theatre from Echo Park to Highland Park, the uncertainty surrounding the old location, and the collective effort to find a new home. He describes the community's involvement, the practical and financial hurdles, and the sense of momentum and hope that accompanied the transition. The new location quickly became a welcoming space, thanks to the dedication of volunteers and supporters."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[01:10:23]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Preserving Memories and Symbols in the Move"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> The conversation focuses on the intentional preservation of symbols and memories during the move, such as the clown marquee and other iconic elements. Alex explains the collaborative process of selecting meaningful details, the emotional connections to objects, and the importance of maintaining the spirit of the theatre. The new space incorporates elements from the old location, ensuring continuity and honoring the theatre's legacy."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[01:14:55]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Community Changes and Growth"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Alex describes the growth and changes in the Bob Baker community after the move to Highland Park. He notes the increase in audience size, the shift in staff demographics, and the theatre's role in the neighborhood. The community's commitment to keeping the theatre open is emphasized, with contributions ranging from volunteering to financial support. The theatre's expansion has brought new challenges and opportunities for engagement."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[01:23:41]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# COVID-19 and Mobile Puppet Shows"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Alex recounts how the theatre adapted during the COVID-19 pandemic, including filming content, keeping staff on payroll, and launching mobile puppet shows through windows and online. The period fostered intimate connections with the community, creative problem-solving, and a successful fundraising campaign. The theatre's resilience and the community's support were crucial in navigating the challenges of the pandemic."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[01:31:18]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Bob Baker Puppets in Media and Hollywood"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Alex discusses the theatre's involvement in media and Hollywood, including fulfilling requests for puppets in movies, music videos, and other productions. He describes the unpredictability of the business, the complexities of pricing and logistics, and the excitement of working with celebrities and large-scale projects. The theatre's role in training puppeteers and contributing to storytelling across various platforms is highlighted."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "[01:38:32]"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "# Future Plans and Legacy"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "> Alex outlines the theatre's future plans, including securing ownership of the building, redirecting resources to staff and programs, and developing sustainable, impactful initiatives. He expresses aspirations for expanding the theatre's presence, possibly reclaiming the old building, and fostering imagination and creativity. The commitment to ensuring the theatre's longevity and legacy for future generations is emphasized."
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": "** **"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "_id": "69cec0c08a06ca59f7920804"
+      }
+    ],
     "chat": [],
     "created_at": "2025-08-15T23:47:17.000Z",
-    "updated_at": "2026-02-27T01:47:55.759Z",
+    "updated_at": "2026-04-02T19:17:38.398Z",
     "__v": 1,
     "opentok_session_id": "2_MX40NTk3Njc0Mn4xMjcuMC4wLjF-MTc1NjQyNDgzNjg5MH5jcXN2em9jSlkwVDUvNHpCQjVCWjB3cVZ-fn4",
     "custom_archive_media_type": "audio/m4a",
@@ -78675,14 +80754,14 @@
     "title": "Oral History with Alex Evans from Bob Baker Marionette Theater",
     "duration": 6206.904,
     "recording_size": 248287554,
-    "description": "",
+    "description": "The interview provides a rich insight into the life and contributions of Alex Evans, the co-executive and artistic director of Bob Baker Marionette Theater. Key topics include Evans' upbringing, his move from England to America, his engagement with puppetry, and the cultural transitions involved. The discussion also covers the Bob Baker Theater's relocation and adaptation efforts, emphasizing the community-driven nature of these changes. It explores the theater's history, its pivotal role in the Los Angeles arts scene, and its future plans, including greater sustainability and community involvement. The narrative underscores the theater's legacy and innovation in puppetry within both historical and contemporary contexts.",
     "deepgramOp": "dl2rienmav",
     "weaviate_operation": {
       "status": "completed",
-      "content_version": 8,
+      "content_version": 10,
       "model_used": "text-embedding-3-small",
       "created_at": "2025-11-09T00:32:25.891Z",
-      "updated_at": "2026-02-26T21:16:08.877Z",
+      "updated_at": "2026-04-02T19:17:38.398Z",
       "error_data": {
         "msg": "connect ECONNREFUSED 127.0.0.1:4040",
         "phase": "delete_or_reinsert"
@@ -78696,15 +80775,15 @@
   "videoURL": "https://stream.mux.com/6FwMopkdP8bmTrwOgswTfRpmgPqTa3uzQR64xAxCOxg/audio.m4a",
   "participants": [
     {
-      "_id": "68b0edb25cbf69a7308e86ff",
-      "name": "Estella Burque",
+      "_id": "68b0edb25cbf69a7308e86fe",
+      "name": "Alex Evans",
       "user": "670578e60b1340f9ebca796e",
       "story": "68b0ea84c7123e65cb0a58c0",
       "__v": 0
     },
     {
-      "_id": "68b0edb25cbf69a7308e86fe",
-      "name": "Alex Evans",
+      "_id": "68b0edb25cbf69a7308e86ff",
+      "name": "Estella Burque",
       "user": "670578e60b1340f9ebca796e",
       "story": "68b0ea84c7123e65cb0a58c0",
       "__v": 0
