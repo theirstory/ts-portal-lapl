@@ -2,7 +2,7 @@
   "organization": {
     "name": "Los Angeles Public Library",
     "displayName": "Los Angeles Public Library",
-    "description": "The Los Angeles Public Library provides free and easy access to information, ideas, books and technology that enrich, educate and empower every individual in our city's diverse communities.",
+    "description": "The Los Angeles Public Library provides free access to information, ideas, books, and technology that enrich and empower our diverse communities.",
     "logo": {
       "_comment": "Optional custom logo path from /public (example: /images/logo.png). If empty, default LogoArchive is used.",
       "path": "/images/lapl-logo.png",

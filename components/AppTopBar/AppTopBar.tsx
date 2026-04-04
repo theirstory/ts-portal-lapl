@@ -34,6 +34,8 @@ export const AppTopBar = () => {
   const isStoryPage = pathname.startsWith('/story/');
   const isChatPage = pathname.startsWith('/discover');
   const isIndexPage = pathname.startsWith('/indexes');
+  const isCollectionsPage = pathname === '/';
+  const isRecordingsPage = pathname.startsWith('/recordings');
   const isFullScreenPage = isStoryPage || isChatPage;
   const isAutoCollapsePage = isStoryPage || isChatPage || isIndexPage;
   const isHeaderOverlayEnabled = config?.ui?.portalHeaderOverlay?.enabled ?? true;
@@ -99,7 +101,7 @@ export const AppTopBar = () => {
                     component="img"
                     src={organizationLogoPath}
                     alt={logoAlt}
-                    sx={{ maxHeight: 40, maxWidth: { xs: 140, md: 220 }, width: 'auto', objectFit: 'contain' }}
+                    sx={{ maxHeight: 40, maxWidth: { xs: 118, sm: 140, md: 220 }, width: 'auto', objectFit: 'contain' }}
                   />
                 ) : (
                   <LogoArchive
@@ -127,9 +129,9 @@ export const AppTopBar = () => {
                     '&:hover': { opacity: 1 },
                   },
                 }}>
-                <Link href="/recordings">RECORDINGS</Link>
-                <Link href="/indexes">INDEXES</Link>
-                {shouldShowCollectionsLink && <Link href="/">COLLECTIONS</Link>}
+                {!isRecordingsPage && <Link href="/recordings">RECORDINGS</Link>}
+                {!isIndexPage && <Link href="/indexes">INDEXES</Link>}
+                {shouldShowCollectionsLink && !isCollectionsPage && <Link href="/">COLLECTIONS</Link>}
                 {!isFullScreenPage && (
                   <Tooltip title={isTopBarCollapsed ? 'Expand' : 'Collapse'}>
                     <IconButton
