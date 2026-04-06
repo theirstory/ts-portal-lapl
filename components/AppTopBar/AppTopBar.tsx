@@ -101,7 +101,7 @@ export const AppTopBar = () => {
                     component="img"
                     src={organizationLogoPath}
                     alt={logoAlt}
-                    sx={{ maxHeight: 40, maxWidth: { xs: 118, sm: 140, md: 220 }, width: 'auto', objectFit: 'contain' }}
+                    sx={{ maxHeight: 40, maxWidth: { xs: 100, sm: 140, md: 220 }, width: 'auto', objectFit: 'contain' }}
                   />
                 ) : (
                   <LogoArchive
