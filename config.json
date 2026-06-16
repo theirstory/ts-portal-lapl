@@ -100,7 +100,7 @@
       "_commentBaseUrl": "Only needed for openai-compatible providers. Leave empty for Anthropic. For OpenAI, you can also leave it empty to use the default https://api.openai.com/v1",
       "enabled": true,
       "provider": "anthropic",
-      "model": "claude-sonnet-4-20250514",
+      "model": "claude-sonnet-4-6",
       "baseUrl": ""
     }
   },
